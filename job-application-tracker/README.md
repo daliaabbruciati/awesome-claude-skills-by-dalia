@@ -1,4 +1,5 @@
 <img width="1376" height="700" alt="Gemini_Generated_Image_uy5f2puy5f2puy5f" src="https://github.com/user-attachments/assets/272b24d0-f2ea-4f93-92ba-c4c0160f6154" />
+
 # 📃 Job Application Tracker (Claude Skill)
 
 This repository contains the configuration files and operational instructions to enable the **Job Application Tracker** skill on your Claude assistant.
