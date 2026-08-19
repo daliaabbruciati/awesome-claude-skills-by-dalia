@@ -58,3 +58,9 @@ Just ask: *"Make a plan for my restaurant booking app"* or *"Give me a roadmap f
 - **No project folder yet:** Fine — the skill simply waits and creates `ROADMAP.md` as soon as a project folder exists.
 - **Existing ROADMAP.md:** If one is already present, it is loaded and treated as the plan rather than overwritten.
 - **Scope creep:** The roadmap evolves with the project, but nothing is ever marked done unless it is functionally complete and verified.
+
+## ☕️ Thank U
+
+<a href="https://buymeacoffee.com/daliaabbr" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
+</a>
