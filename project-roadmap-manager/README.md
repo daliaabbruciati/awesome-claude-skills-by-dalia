@@ -19,6 +19,20 @@ The skill turns an approved project plan into a living `ROADMAP.md` file that yo
 1. Keep `SKILL.md` somewhere your assistant reads on every session.
 2. Reference it in your project's context so the assistant checks the roadmap before and after every task.
 
+### Option 3: AI Chat Command (Quick Install)
+
+If you use the community standard `skills` CLI for AI agents, you can install this roadmap manager directly into your project's agent configuration (supports Claude Code, Cursor, Windsurf, Codex, and more):
+
+```bash
+npx skills add https://github.com/daliaabbruciati/awesome-claude-skills-by-dalia --skill project-roadmap-manager
+```
+
+**For Claude Code CLI users:**
+You can install the plugin directly using the native Claude command:
+```bash
+claude plugins install daliaabbruciati/awesome-claude-skills-by-dalia/project-roadmap-manager
+```
+
 ---
 
 ## ✅ The Problem This Solves
